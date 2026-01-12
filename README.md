@@ -1,6 +1,6 @@
 # Hi, I’m Alan 👋
 
-I’m a software engineer focused on **data platforms, distributed systems, and enterprise-grade ingestion & processing pipelines**.
+I’m an Enterprise Data engineer focused on **data platforms, distributed systems, and enterprise-grade ingestion & processing pipelines**.
 
 I build systems that care about:
 

@@ -1,19 +1,18 @@
 # Hi, I'm Alan
 
-Enterprise Data Engineer focused on **data platforms, distributed systems, and enterprise-grade ingestion & processing pipelines**.
+Data Engineer building reliable data systems across **financial platforms, cloud infrastructure, AI, and applied research**.
 
-My work sits at the intersection of system correctness, observability, and principled architecture — building systems that let teams reason about complex data flows, distributed behavior, and failure modes in a scientific, testable way.
+My work spans production data engineering — pipelines, ETL, cloud modernization — alongside published applied research in AI, security, and intelligent systems through the [Engineering-to-Research Monograph Series](https://alanp13.github.io/research).
 
 ---
 
-## Interests
+## Technical Themes
 
-- Distributed systems simulation, testing, and failure modeling
-- Enterprise-scale data ingestion, validation, and transformation
-- Correctness-oriented system design and validation layers
-- Experimentation frameworks for data and backend systems
-- Platform tooling that enables repeatable, inspectable system behavior
-- Long-term system evolvability and architectural integrity
+- Financial systems engineering — data pipelines, reconciliation, orchestration
+- Cloud platform modernization — Azure Synapse, ADLS, data lake architecture
+- Applied AI, intelligent automation, and security research
+- Distributed systems — simulation, observability, correctness-oriented design
+- Low-level systems — processor architecture, embedded platforms, graph analytics
 
 ---
 
@@ -22,12 +21,12 @@ My work sits at the intersection of system correctness, observability, and princ
 | | |
 |---|---|
 | **Languages** | Python, Java, JavaScript/TypeScript, SQL, C/C++ |
-| **Platforms** | Azure, Spark, Docker |
-| **Domains** | Data engineering, backend systems, platform tooling, simulation & testing infrastructure |
+| **Platforms** | Azure, Spark, Docker, Neo4j |
+| **Domains** | Data engineering, financial systems, applied research, distributed systems |
 
 ---
 
 ## Find Me
 
+- [Portfolio & Research](https://alanp13.github.io)
 - [LinkedIn](https://www.linkedin.com/in/alan-palayil/)
-- [Portfolio](https://alanp13.github.io)
